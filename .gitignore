@@ -160,3 +160,5 @@ cython_debug/
 #.idea/
 /module-1/Masoner_M1ProgAssignment/.gradle/
 /module-2/Masoner_M2ProgAssignment/.gradle/
+/module-3/Masoner_M3ProgAssignment/.gradle/
+/module-4/Masoner_M4ProgAssignment/.gradle/
